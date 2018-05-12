@@ -15,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jakob_Wassermann
     - http://de.wikipedia.org/wiki/Jakob_Wassermann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17007#Imagin-re-Br-cken--Studien-und-Aufs-tze
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2005-11-05'
 gutenberg_type: Text
